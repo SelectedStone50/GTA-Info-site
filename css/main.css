@@ -851,7 +851,7 @@ header {
 }
 
 .header-top {
-  background: #04091e;
+  background: #21ba4e;
   padding: 15px 0px;
 }
 
@@ -986,7 +986,7 @@ header {
   top: 100%;
   left: 0;
   z-index: 99;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(33, 186, 78, 0.9);
 }
 
 .nav-menu li {
@@ -1174,7 +1174,7 @@ header {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #f6214b;
+  color: #21ba4e;
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -1182,7 +1182,7 @@ header {
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #f6214b;
+  color: #21ba4e;
 }
 
 #mobile-body-overly {
